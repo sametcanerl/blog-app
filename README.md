@@ -1,3 +1,6 @@
+Bu projede firebase realtime-database kullanılarak, blog yazıları oluşturarak panoda görüntülenmesi amaçlanmaktadır. Blog yazıları ekleme, silme ve güncelleme yapılabilir. Projede veri depolamak için firebase realtime-database, stillendirme için material-ui, sayfa geçişleri için react-router, bildirimler için react-toastify kütüphaneleri kullanılmıştır. Ayrıca oturum açma ve yetkilendirme işlemleri için firebase-authentication kullanıldı.Beceriler/Araçlar : Firebase realtime-database,Material-ui,React-router,React-toastify.
+## [Live Link](https://sce-blogapp.netlify.app)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
